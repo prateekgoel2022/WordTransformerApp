@@ -1,0 +1,2 @@
+cat, pig
+ant, bat, cat, cot, cut, dog, dot, hen, pig, rat
